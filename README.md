@@ -18,9 +18,6 @@ A 3D model of the Batman logo, designed using [Onshape](https://www.onshape.com/
 
 
 
-## 🔗 Onshape Design
-
-[View the design on Onshape](#) <!-- replace # with your Onshape share link -->
 
 ## 🚀 How to Use
 
